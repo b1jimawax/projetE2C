@@ -526,11 +526,12 @@ footer {
    Venue section              
 -----------------------------------------*/
 #venue {
-    background: url('../images/venue-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/venue-bg.jpeg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     padding-top: 7rem;
     padding-bottom: 7rem;
+    color: #f0f0f0;
 }
 
 #venue p {
